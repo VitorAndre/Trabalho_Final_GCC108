@@ -1,13 +1,13 @@
 # Trabalho_Final_GCC108
 Prof.: Douglas H. S. Abreu
 
-●	O trabalho deve ser feito em grupos de no máximo 2 componentes
+Alunos: Gustavo Costa Daguer e Vitor André de Oliveira Tenório
 
-●	Trabalhos entregues após a data limite não serão aceitos
+Turma: 10A
 
-●	Data limite de entrega: 29 de Abril de 2022 : 23h55m (não será aceito nenhum commit após a data)
+O notebook se encontra nos arquivos Trabalho_Final.ipynb e TrabalhoFinal.pdf
 
-●	Enviar o trabalho para o campus virtual, do seguinte modo: Notebook exportado em PDF contendo o código e também o link do repositório GitHub para acesso aos arquivos. A Documentação deve estar no readme
+O código da soma binária se encontra no notebook e no arquivo soma.py
 
-teste aula
+Os exercícios propostos se encontram no arquivo TrabalhoFinal_GustavoDaguer_VitorTenorio.pdf.
 
